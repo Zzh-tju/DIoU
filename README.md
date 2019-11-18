@@ -23,11 +23,13 @@ First, the anchor box is set at horizontal orientation. GIoU loss firstly broade
 central point of prediction box only moves slightly towards target box. And then when there is overlap between prediction and
 target boxes, the IoU term in GIoU loss would make better match. From the final result at T = 400, one can see that target box
 has been included into prediction box, where GIoU loss has totally degraded to IoU loss. 
+
 <img src="simulation_examples/horizontal.jpg" width="800px"/> 
 
 Then, the anchor box is set at
 vertical orientation. Similarly, GIoU loss broadens the bottom edge of prediction box, and these two boxes do not match in the
 final iteration. In comparison, our DIoU loss converges to good matches in only a few dozen iterations.
+
 <img src="simulation_examples/vertical.jpg" width="800px"/> 
 
 
