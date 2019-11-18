@@ -16,7 +16,7 @@ Bounding box regression is the crucial step in object detection. In existing met
 
 ## Simulation Examples
 We analyze GIoU and DIoU losses using simulation experiments. GIoU loss generally increases the size of predicted box to overlap with target box, while DIoU loss directly minimizes normalized distance of central points. 
-<img src="simulation_examples/diag.jpg" width="800px"/>
+<img src="simulation_examples/diag.jpg" width="600px"/>
 
 Furthermore, we show two examples of regression steps for the cases at horizontal and vertical orientations, respectively. 
 First, the anchor box is set at horizontal orientation. GIoU loss firstly broadens the right edge of prediction box, while the
