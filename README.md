@@ -39,9 +39,12 @@ Bounding box regression is the crucial step in object detection. In existing met
 ## Simulation Experiments' results
 Kindly refer to our paper for more details.
 
-![IoU loss]<img src="simulation_examples/total_final_error_IoU01.png" width="29%"/><img src="simulation_examples/total_final_error_IoU02.png" width="38%"/><img src="simulation_examples/total_final_error_IoU03.png" width="33%"/>
-![GIoU loss]<img src="simulation_examples/total_final_error_GIoU01.png" width="29%"/><img src="simulation_examples/total_final_error_GIoU02.png" width="38%"/><img src="simulation_examples/total_final_error_GIoU03.png" width="33%"/>
-![DIoU loss]<img src="simulation_examples/total_final_error_DIoU01.png" width="29%"/><img src="simulation_examples/total_final_error_DIoU02.png" width="38%"/><img src="simulation_examples/total_final_error_DIoU03.png" width="33%"/>
+#IoU loss
+<img src="simulation_examples/total_final_error_IoU01.png" width="29%"/><img src="simulation_examples/total_final_error_IoU02.png" width="38%"/><img src="simulation_examples/total_final_error_IoU03.png" width="33%"/>
+#GIoU loss
+<img src="simulation_examples/total_final_error_GIoU01.png" width="29%"/><img src="simulation_examples/total_final_error_GIoU02.png" width="38%"/><img src="simulation_examples/total_final_error_GIoU03.png" width="33%"/>
+#DIoU loss
+<img src="simulation_examples/total_final_error_DIoU01.png" width="29%"/><img src="simulation_examples/total_final_error_DIoU02.png" width="38%"/><img src="simulation_examples/total_final_error_DIoU03.png" width="33%"/>
 
 ## Simulation Examples
 We analyze GIoU and DIoU losses using simulation experiments. GIoU loss generally increases the size of predicted box to overlap with target box, while DIoU loss directly minimizes normalized distance of central points. 
