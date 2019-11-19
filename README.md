@@ -21,7 +21,7 @@ There are two modes that we provide. One is `test_1715k.m` and the other is `sim
 
 `simple_test.m` provides a simple toy simulation. You can modify the options `gt` and `pred` to whatever you want. 
 
-This a convenient and intutive way to see how IoU based loss works. All the gradients of these four IoU based losses are calculated consistent with our d-Darknet (YOLO v3). Note that the IoU term is necessary, otherwise the comparison will be meaningless. If you find some other forms of loss functions, you can run this simulation to see its convergence, about how fast it is or how much error it has. And these performance will appear in high probability in benchmark training which is our original idea about the simulation.
+This is a convenient and intutive way to see how IoU based loss works. All the gradients of these four IoU based losses are calculated consistent with our d-Darknet (YOLO v3). Note that the IoU term is necessary, otherwise the comparison will be meaningless. If you find some other forms of loss functions, you can run this simulation to see its convergence, about how fast it is or how much error it has. And these performance will appear in high probability in benchmark training which is our original idea about the simulation.
 
 ### 2) DIoU and CIoU losses into Detection Algorithms
 DIoU and CIoU losses are incorporated into state-of-the-art detection algorithms, including YOLO v3, SSD and Faster R-CNN. 
