@@ -1,5 +1,5 @@
 ## Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression 
-[[arxiv](https://arxiv.org/abs/xx)] [[pdf](https://csdwren.github.io/papers/DIoU.pdf)]
+[[arxiv](https://arxiv.org/abs/1911.08287)] [[pdf](https://csdwren.github.io/papers/DIoU.pdf)]
 
 ```
 @inproceedings{zheng2020distance,
