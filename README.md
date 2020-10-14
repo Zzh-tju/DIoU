@@ -81,3 +81,10 @@ vertical orientation. Similarly, GIoU loss broadens the bottom edge of predictio
 final iteration. In comparison, our DIoU loss converges to good matches in only a few dozen iterations.
 
 <img src="simulation_examples/vertical.jpg" width="800px"/> 
+
+## Simulation Result Files
+
+We provide txt files for the simulation results. For how to use, please take a look at the end of [simulation experiment/test_1715k.m](simulation experiment/test_1715k.m).
+
+Link: https://pan.baidu.com/s/1ZkVapEsMcqJz3-PfTF2kSA
+PW: t3y0
