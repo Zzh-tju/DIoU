@@ -1,7 +1,8 @@
 <img src="CIoU.png" width="800px"/>
 
 ## Complete-IoU Loss and Cluster-NMS for Improving Object Detection and Instance Segmentation. 
-#### New released! https://github.com/Zzh-tju/CIoU    Accepted by **IEEE Transactions on Cybernetics (TCYB)**.
+#### New released! https://github.com/Zzh-tju/CIoU    
+Our paper is accepted by **IEEE Transactions on Cybernetics (TCYB)**.
 
 This is the code for our papers:
  - [Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression][[arxiv](https://arxiv.org/abs/1911.08287)] [[pdf](https://www.researchgate.net/publication/337386850_Distance-IoU_Loss_Faster_and_Better_Learning_for_Bounding_Box_Regression)]
