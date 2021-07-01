@@ -1,7 +1,7 @@
 <img src="CIoU.png" width="800px"/>
 
 ## Complete-IoU Loss and Cluster-NMS for Improving Object Detection and Instance Segmentation. 
-#### New released! https://github.com/Zzh-tju/CIoU
+#### New released! https://github.com/Zzh-tju/CIoU    Accepted by **IEEE Transactions on Cybernetics (TCYB)**.
 
 This is the code for our papers:
  - [Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression][[arxiv](https://arxiv.org/abs/1911.08287)] [[pdf](https://www.researchgate.net/publication/337386850_Distance-IoU_Loss_Faster_and_Better_Learning_for_Bounding_Box_Regression)]
@@ -15,11 +15,11 @@ This is the code for our papers:
    year      = {2020},
 }
 
-@Article{zheng2020ciou,
+@Article{ciou-tcyb2021,
   author= {Zhaohui Zheng, Ping Wang, Dongwei Ren, Wei Liu, Rongguang Ye, Qinghua Hu, Wangmeng Zuo},
   title={Enhancing Geometric Factors in Model Learning and Inference for Object Detection and Instance Segmentation},
-  journal={arXiv:2005.03572},
-  year={2020}
+  journal={IEEE Transactions on Cybernetics},
+  year={2021}
 }
 ```
 
