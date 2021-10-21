@@ -9,18 +9,18 @@ This is the code for our papers:
  - [Enhancing Geometric Factors into Model Learning and Inference for Object Detection and Instance Segmentation](https://arxiv.org/abs/2005.03572)
 
 ```
-@Inproceedings{zheng2020distance,
-  author    = {Zhaohui Zheng, Ping Wang, Wei Liu, Jinze Li, Rongguang Ye, Dongwei Ren},
+@Inproceedings{zheng2020diou,
+  author    = {Zheng, Zhaohui and Wang, Ping and Liu, Wei and Li, Jinze and Ye, Rongguang and Ren, Dongwei},
   title     = {Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression},
   booktitle = {The AAAI Conference on Artificial Intelligence (AAAI)},
-   year      = {2020},
+  year      = {2020},
 }
 
-@Article{ciou-tcyb2021,
-  author= {Zhaohui Zheng, Ping Wang, Dongwei Ren, Wei Liu, Rongguang Ye, Qinghua Hu, Wangmeng Zuo},
-  title={Enhancing Geometric Factors in Model Learning and Inference for Object Detection and Instance Segmentation},
-  journal={IEEE Transactions on Cybernetics},
-  year={2021}
+@Inproceedings{zheng2021ciou,
+  author    = {Zheng, Zhaohui and Wang, Ping and Ren, Dongwei and Liu, Wei and Ye, Rongguang and Hu, Qinghua and Zuo, Wangmeng},
+  title     = {Enhancing Geometric Factors in Model Learning and Inference for Object Detection and Instance Segmentation},
+  booktitle = {IEEE Transactions on Cybernetics},
+  year      = {2021},
 }
 ```
 
